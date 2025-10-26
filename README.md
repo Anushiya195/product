@@ -1,4 +1,4 @@
-# Product Catalog Website (nm.html)
+# Product Catalog Website (index.html)
 
 A responsive multi-section product catalog website built using **HTML**, **CSS**, and **JavaScript**.  
 It allows users to browse, filter, and view products with simple navigation between different sections.
@@ -34,7 +34,7 @@ It allows users to browse, filter, and view products with simple navigation betw
 ## How to Run
 
 1. Download or clone this repository.
-2. Open the file `nm.html` in your web browser.
+2. Open the file `index.html` in your web browser.
 3. Use the navigation links to browse different sections.
 
 ---
@@ -60,7 +60,7 @@ It allows users to browse, filter, and view products with simple navigation betw
 
 **Created by:** P. Anushiya
 **Year:** 2025  
-**File:** `nm.html`
+**File:** `index.html`
 
 ---
 
